@@ -1,0 +1,26 @@
+.input-container{
+	text-align: center;
+	
+}
+h2{
+	text-align: center;
+}
+input{
+	margin-top: .5rem;
+	background-color: beige;
+	
+	
+}
+
+p{
+	margin:0;
+	margin-bottom: .25rem;
+	color:red;
+	font-size: .5rem;
+}
+button{
+	margin-top: .25rem;
+	
+	
+	
+}
